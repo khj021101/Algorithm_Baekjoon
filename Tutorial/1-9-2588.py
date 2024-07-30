@@ -1,0 +1,11 @@
+a = input()
+b = input()
+x = int(a)
+y = int(b)
+first_digit = y%10
+second_digit = int((y%100)/10)
+third_digit = int((y%1000)/100)
+print(x*first_digit)
+print(x*second_digit)
+print(x*third_digit)
+print(x*y)

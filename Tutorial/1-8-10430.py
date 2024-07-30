@@ -1,0 +1,8 @@
+a, b, c = input().split()
+an = int(a)
+bn = int(b)
+cn = int(c)
+print((an + bn)%cn)
+print(((an%cn)+(bn%cn))%cn)
+print((an*bn)%cn)
+print(((an%cn)*(bn%cn))%cn)
