@@ -9,4 +9,3 @@ for l in range(m):
     for k in range(j-i+1):
         basket[i-1+k] = TempList[k]
 print(*basket)
-
