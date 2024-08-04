@@ -1,3 +1,5 @@
-Solutions for Baekjoon Algorithm problems\n
-Using Python3\n
+Solutions for Baekjoon Algorithm problems
+
+Using Python3
+
 Since 2024.08
